@@ -1,0 +1,75 @@
+
+#grisclair { 
+  padding-top:10px;
+  padding-left:10px;
+  padding-bottom:10px;
+  background-color: #F0F0F0;
+  border : 2px solid #F8F8FF;
+}  
+
+
+.titres {
+  padding-top:10px;
+  padding-left:10px;
+  padding-bottom:10px;
+  background-color: #C0C0C0;
+  border : 2px solid #F8F8FF;
+  }
+
+.titresbis {
+  padding-top:10px;
+  padding-left:10px;
+  padding-bottom:10px;
+  background-color: #C0C0C0;
+  width:630px;
+  border : 2px solid #F8F8FF;
+  float:left;
+  }
+
+.titrester {
+  padding-top:10px;
+  padding-left:10px;
+  padding-bottom:10px;
+  background-color: #C0C0C0;
+  width:260px;
+  border : 2px solid #F8F8FF;
+  float:left;
+  }
+
+.dates {
+  color:#C0C0C0;
+  font-weight:bold;
+  }
+
+
+
+.texte{ 
+  font-size : 16px;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.textebis{ 
+  font-size : 16px;
+  font-family: sans-serif;
+  text-align: left;
+  float:left;
+  width:630px;
+  padding-right:10px;
+}
+
+#comp{
+  float : left;
+  background-color: #F0F0F0;
+  border : 2px solid #F8F8FF;
+  width:265px;
+  padding-left:10px;
+  }
+}
+
+#titre{
+  font-size : 20px;
+  font-family: sans-serif;
+  float:left; 
+  width:100px;
+ }
