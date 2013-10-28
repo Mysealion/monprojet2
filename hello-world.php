@@ -16,7 +16,7 @@
 	text-align: center;
 }
 .buttonStyle {
-	border-radius: 4px;
+	border-radius: 8px;
 	border: thin solid #F0E020;
 	padding: 5px;
 	background-color: #F8F094;
